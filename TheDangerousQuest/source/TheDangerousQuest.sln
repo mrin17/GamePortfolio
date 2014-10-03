@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TheDangerousQuest", "TheDangerousQuest\TheDangerousQuest.vcxproj", "{1B7A0FBF-E47A-4331-87DF-EF5BCC9CB7C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Noheader|Win32 = Noheader|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B7A0FBF-E47A-4331-87DF-EF5BCC9CB7C7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1B7A0FBF-E47A-4331-87DF-EF5BCC9CB7C7}.Debug|Win32.Build.0 = Debug|Win32
+		{1B7A0FBF-E47A-4331-87DF-EF5BCC9CB7C7}.Noheader|Win32.ActiveCfg = Noheader|Win32
+		{1B7A0FBF-E47A-4331-87DF-EF5BCC9CB7C7}.Noheader|Win32.Build.0 = Noheader|Win32
+		{1B7A0FBF-E47A-4331-87DF-EF5BCC9CB7C7}.Release|Win32.ActiveCfg = Release|Win32
+		{1B7A0FBF-E47A-4331-87DF-EF5BCC9CB7C7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
